@@ -57,7 +57,7 @@ DiffusionDet: Diffusion Model for Object Detection
 
 ## Segmentation
 Segment Anything  
-- Homepage: https://segment-anything.com/
+- Home: https://segment-anything.com/
 - Paper: https://arxiv.org/abs/2304.02643
 - Code: https://github.com/facebookresearch/segment-anything
 
@@ -73,6 +73,26 @@ Referring Image Segmentation Using Text Supervision
 ## Depth
 
 ## Diffusion
+MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
+- Paper: https://arxiv.org/abs/2304.08465
+- Home: https://ljzycmd.github.io/projects/MasaCtrl/
+
+Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+- Paper: https://arxiv.org/abs/2212.11565
+- Code: https://github.com/showlab/Tune-A-Video
+
+FateZero: Fusing Attentions for Zero-shot Text-based Video Editing
+- Paper: https://arxiv.org/abs/2303.09535
+- Code: https://github.com/ChenyangQiQi/FateZero
+
+Expressive Text-to-Image Generation with Rich Text
+- Paper: https://arxiv.org/abs/2304.06720
+- Home: https://rich-text-to-image.github.io/
+
+Ablating Concepts in Text-to-Image Diffusion Models
+- Paper: https://arxiv.org/abs/2303.13516
+- Home: https://www.cs.cmu.edu/~concept-ablation/
+- Code: https://github.com/nupurkmr9/concept-ablation
 
 ## Restoration
 
