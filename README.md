@@ -33,7 +33,9 @@ A Unified Continual Learning Framework with General Parameter-Efficient Tuning
 - Paper: https://arxiv.org/abs/2303.10070
 - Code: https://github.com/gqk/LAE
 
-
+Scale-Aware Modulation Meet Transformer
+- Paper: 
+- Code: https://github.com/AFeng-x/SMT
 
 
 ## Detection 
@@ -69,6 +71,9 @@ Referring Image Segmentation Using Text Supervision
 - Paper:
 - Code: https://github.com/fawnliu/WRIS_ICCV2023
 
+EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation 
+- Paper: https://arxiv.org/pdf/2205.14756.pdf
+- Code: https://github.com/mit-han-lab/efficientvit
 
 ## Depth
 
@@ -93,6 +98,11 @@ Ablating Concepts in Text-to-Image Diffusion Models
 - Paper: https://arxiv.org/abs/2303.13516
 - Home: https://www.cs.cmu.edu/~concept-ablation/
 - Code: https://github.com/nupurkmr9/concept-ablation
+
+Evaluating Data Attribution for Text-to-Image Models
+- Paper: https://arxiv.org/abs/2306.09345
+- Home: https://peterwang512.github.io/GenDataAttribution/
+- Code: https://github.com/peterwang512/GenDataAttribution
 
 ## Restoration
 
