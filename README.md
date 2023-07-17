@@ -11,6 +11,7 @@
 - [Diffusion](#Diffusion)
 - [Restoration](#Restoration)
 - [Super-Resolution](#super-resolution)
+- [Deblurring](#deblurring)
 - [低光图像增强](#low-light-image-enhance)
 - [数据集](#dataset)
 - ....
@@ -41,6 +42,10 @@ Improving Zero-Shot Generalization for CLIP with Synthesized Prompts
 - Paper: https://arxiv.org/abs/2307.07397
 - Code: https://github.com/mrflogs/SHIP
 
+DreamTeacher: Pretraining Image Backbones with Deep Generative Models
+- Paper: https://arxiv.org/abs/2307.07487
+- Home: https://research.nvidia.com/labs/toronto-ai/DreamTeacher/
+
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
@@ -59,7 +64,9 @@ DiffusionDet: Diffusion Model for Object Detection
 - Paper: https://arxiv.org/abs/2211.09788
 - Code: https://github.com/ShoufaChen/DiffusionDet
 
-
+DETRs with Collaborative Hybrid Assignments Training
+- Paper: https://arxiv.org/pdf/2211.12860.pdf
+- Code: https://github.com/Sense-X/Co-DETR
 
 ## Segmentation
 Segment Anything  
@@ -107,6 +114,10 @@ Evaluating Data Attribution for Text-to-Image Models
 - Paper: https://arxiv.org/abs/2306.09345
 - Home: https://peterwang512.github.io/GenDataAttribution/
 - Code: https://github.com/peterwang512/GenDataAttribution
+
+Masked Diffusion Transformer is a Strong Image Synthesizer
+- Paper:
+- Code:
 
 ## Restoration
 
