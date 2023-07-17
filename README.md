@@ -1,5 +1,5 @@
 # ICCV2023-paper-code
-![](aiwalker.png)
+![](./assets/aiwalker.png)
 
 持续更新ICCV2023论文、代码等信息，欢迎关注AIWalker。主要聚焦以下几个方向，更多CV/AI资料可添加AIWalker助手【AIWalker-zhushou】获取(可扫描底部二维码)。
 
@@ -18,6 +18,11 @@
 
 
 ## Backbone
+ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision
+Transformer on Diverse Mobile Devices
+- Paper: https://arxiv.org/pdf/2303.09730.pdf
+
+
 Rethinking Mobile Block for Efficient Attention-based Models  
 - Paper: https://arxiv.org/abs/2301.01146
 - Code: https://github.com/zhangzjn/EMO
@@ -68,6 +73,15 @@ DETRs with Collaborative Hybrid Assignments Training
 - Paper: https://arxiv.org/pdf/2211.12860.pdf
 - Code: https://github.com/Sense-X/Co-DETR
 
+MIMDet: Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection
+- Paper: https://arxiv.org/abs/2204.02964
+- Code: https://github.com/hustvl/MIMDet
+
+Detection Transformer with Stable Matching
+- Paper: https://arxiv.org/abs/2304.04742
+- Code: https://github.com/IDEA-Research/Stable-DINO
+
+
 ## Segmentation
 Segment Anything  
 - Home: https://segment-anything.com/
@@ -85,6 +99,10 @@ Referring Image Segmentation Using Text Supervision
 EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation 
 - Paper: https://arxiv.org/pdf/2205.14756.pdf
 - Code: https://github.com/mit-han-lab/efficientvit
+
+A Simple Framework for Open-Vocabulary Segmentation and Detection
+- Paper: https://arxiv.org/pdf/2303.08131.pdf
+- Code: https://github.com/IDEA-Research/OpenSeeD
 
 ## Depth
 
@@ -118,6 +136,9 @@ Evaluating Data Attribution for Text-to-Image Models
 Masked Diffusion Transformer is a Strong Image Synthesizer
 - Paper:
 - Code:
+
+SVDiff: Compact Parameter Space for Diffusion Fine-tuning
+- paper: https://arxiv.org/abs/2303.11305
 
 ## Restoration
 
@@ -156,6 +177,5 @@ LPFF: A Portrait Dataset for Face Generators Across Large Poses
 - Code: https://github.com/oneThousand1000/LPFF-dataset
 
 
-
 ## AIWalker-小助手
-![](zhushou.png)
+![](./assets/zhushou.png)
