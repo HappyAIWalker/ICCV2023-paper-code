@@ -37,6 +37,10 @@ Scale-Aware Modulation Meet Transformer
 - Paper: 
 - Code: https://github.com/AFeng-x/SMT
 
+Improving Zero-Shot Generalization for CLIP with Synthesized Prompts
+- Paper: https://arxiv.org/abs/2307.07397
+- Code: https://github.com/mrflogs/SHIP
+
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
@@ -110,6 +114,19 @@ Evaluating Data Attribution for Text-to-Image Models
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
 - Paper: https://arxiv.org/abs/2303.09735
 - Code: https://github.com/HVision-NKU/SRFormer
+
+SAFMN: Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution
+- Paper: https://arxiv.org/pdf/2302.13800.pdf
+- Code: https://github.com/sunny2109/SAFMN
+
+DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image Super-Resolution
+- Paper: https://arxiv.org/pdf/2301.02031.pdf
+- Code: https://github.com/NeonLeexiang/DLGSANet
+
+## Deblurring
+Multi-scale Residual Low-Pass Filter Network for Image Deblurring
+- Paper: 
+- Code:
 
 
 ## Low-light Image Enhance
