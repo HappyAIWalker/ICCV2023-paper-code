@@ -104,6 +104,10 @@ A Simple Framework for Open-Vocabulary Segmentation and Detection
 - Paper: https://arxiv.org/pdf/2303.08131.pdf
 - Code: https://github.com/IDEA-Research/OpenSeeD
 
+Multi-granularity Interaction Simulation for Unsupervised Interactive Segmentation
+- Paper: https://arxiv.org/abs/2303.13399
+
+
 ## Depth
 
 ## Diffusion
