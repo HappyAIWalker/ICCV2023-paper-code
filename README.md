@@ -56,6 +56,9 @@ ShiftNAS: Improving One-shot NAS via Probability Shift
 - Paper: https://arxiv.org/abs/2307.08300
 - Code: https://github.com/bestfleer/ShiftNAS
 
+MULLER: Multilayer Laplacian Resizer for Vision
+- Paper: https://arxiv.org/pdf/2304.02859.pdf
+
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
