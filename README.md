@@ -7,7 +7,7 @@
 - [Backbone](#Backbone)
 - [Detection](#detection)
 - [Segmentation](#segmentation)
-- [Depth](#depth)
+- [Knowledge Distillation](#knowledge-distillation)
 - [Diffusion](#Diffusion)
 - [Restoration](#Restoration)
 - [Super-Resolution](#super-resolution)
@@ -41,7 +41,7 @@ A Unified Continual Learning Framework with General Parameter-Efficient Tuning
 - Code: https://github.com/gqk/LAE
 
 Scale-Aware Modulation Meet Transformer
-- Paper: 
+- Paper: https://arxiv.org/abs/2307.08579
 - Code: https://github.com/AFeng-x/SMT
 
 Improving Zero-Shot Generalization for CLIP with Synthesized Prompts
@@ -51,6 +51,10 @@ Improving Zero-Shot Generalization for CLIP with Synthesized Prompts
 DreamTeacher: Pretraining Image Backbones with Deep Generative Models
 - Paper: https://arxiv.org/abs/2307.07487
 - Home: https://research.nvidia.com/labs/toronto-ai/DreamTeacher/
+
+ShiftNAS: Improving One-shot NAS via Probability Shift
+- Paper: https://arxiv.org/abs/2307.08300
+- Code: https://github.com/bestfleer/ShiftNAS
 
 
 ## Detection 
@@ -82,6 +86,10 @@ Detection Transformer with Stable Matching
 - Paper: https://arxiv.org/abs/2304.04742
 - Code: https://github.com/IDEA-Research/Stable-DINO
 
+Random Boxes Are Open-world Object Detectors
+- Paper: https://arxiv.org/abs/2307.08249
+- Code: https://github.com/scuwyh2000/RandBox
+
 
 ## Segmentation
 Segment Anything  
@@ -108,8 +116,21 @@ A Simple Framework for Open-Vocabulary Segmentation and Detection
 Multi-granularity Interaction Simulation for Unsupervised Interactive Segmentation
 - Paper: https://arxiv.org/abs/2303.13399
 
+Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
+- Paper: https://arxiv.org/abs/2307.08388
 
-## Depth
+
+## Knowledge Distillation
+From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels
+- Paper: https://arxiv.org/abs/2303.13005
+- Code: https://github.com/yzd-v/cls_KD
+
+DOT: A Distillation-Oriented Trainer
+- Paper: https://arxiv.org/abs/2307.08436
+
+Cumulative Spatial Knowledge Distillation for Vision Transformers
+- Paper: https://arxiv.org/abs/2307.08500
+
 
 ## Diffusion
 MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
@@ -145,9 +166,14 @@ Masked Diffusion Transformer is a Strong Image Synthesizer
 SVDiff: Compact Parameter Space for Diffusion Fine-tuning
 - paper: https://arxiv.org/abs/2303.11305
 
-
+## Depth
+Neural Video Depth Stabilizer
+- Paper: https://arxiv.org/abs/2307.08695
 
 ## Restoration
+Adaptive Nonlinear Latent Transformation for Conditional Face Editing
+- Paper: https://arxiv.org/abs/2307.07790
+- Code: https://github.com/Hzzone/AdaTrans
 
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
@@ -176,6 +202,9 @@ Implicit Neural Representation for Cooperative Low-light Image Enhancement
 Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
 - Paper: https://arxiv.org/abs/2303.17569
 - Home: https://zhexinliang.github.io/CLIP_LIT_page/
+
+ExposureDiffusion: Learning to Expose for Low-light Image Enhancement
+- Paper: https://arxiv.org/abs/2307.07710
 
 ## IQA/IAA
 Delegate Transformer for Image Color Aesthetics Assessment
