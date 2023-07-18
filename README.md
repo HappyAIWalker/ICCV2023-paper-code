@@ -182,6 +182,10 @@ Delegate Transformer for Image Color Aesthetics Assessment
 - Paper: TODO
 - Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment
 
+Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives
+- Paper: https://arxiv.org/abs/2211.04894
+- Code: https://github.com/VQAssessment/DOVER
+
 
 ## Dataset
 LPFF: A Portrait Dataset for Face Generators Across Large Poses
