@@ -13,6 +13,7 @@
 - [Super-Resolution](#super-resolution)
 - [Deblurring](#deblurring)
 - [低光图像增强](#low-light-image-enhance)
+- [IQA/IAA](#iqaiaa)
 - [数据集](#dataset)
 - ....
 
@@ -138,11 +139,13 @@ Evaluating Data Attribution for Text-to-Image Models
 - Code: https://github.com/peterwang512/GenDataAttribution
 
 Masked Diffusion Transformer is a Strong Image Synthesizer
-- Paper:
-- Code:
+- Paper: TODO
+- Code: TODO
 
 SVDiff: Compact Parameter Space for Diffusion Fine-tuning
 - paper: https://arxiv.org/abs/2303.11305
+
+
 
 ## Restoration
 
@@ -161,8 +164,8 @@ DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image 
 
 ## Deblurring
 Multi-scale Residual Low-Pass Filter Network for Image Deblurring
-- Paper: 
-- Code:
+- Paper: TODO
+- Code: TODO
 
 
 ## Low-light Image Enhance
@@ -173,6 +176,11 @@ Implicit Neural Representation for Cooperative Low-light Image Enhancement
 Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
 - Paper: https://arxiv.org/abs/2303.17569
 - Home: https://zhexinliang.github.io/CLIP_LIT_page/
+
+## IQA/IAA
+Delegate Transformer for Image Color Aesthetics Assessment
+- Paper: TODO
+- Code: https://github.com/woshidandan/Image-Color-Aesthetics-Assessment
 
 
 ## Dataset
