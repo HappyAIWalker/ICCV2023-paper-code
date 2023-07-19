@@ -122,6 +122,10 @@ Multi-granularity Interaction Simulation for Unsupervised Interactive Segmentati
 Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation
 - Paper: https://arxiv.org/abs/2307.08388
 
+OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
+- Paper: https://arxiv.org/abs/2307.09356
+- Code: https://github.com/wudongming97/OnlineRefer
+
 
 ## Knowledge Distillation
 From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels
@@ -133,6 +137,10 @@ DOT: A Distillation-Oriented Trainer
 
 Cumulative Spatial Knowledge Distillation for Vision Transformers
 - Paper: https://arxiv.org/abs/2307.08500
+
+Class-relation Knowledge Distillation for Novel Class Discovery
+- Paper: https://arxiv.org/abs/2307.09158
+- Code: https://github.com/kleinzcy/Cr-KD-NCD
 
 
 ## Diffusion
@@ -177,6 +185,9 @@ Neural Video Depth Stabilizer
 Adaptive Nonlinear Latent Transformation for Conditional Face Editing
 - Paper: https://arxiv.org/abs/2307.07790
 - Code: https://github.com/Hzzone/AdaTrans
+
+Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond
+- Paper: https://arxiv.org/abs/2307.08996
 
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
