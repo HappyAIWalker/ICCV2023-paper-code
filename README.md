@@ -142,7 +142,8 @@ Class-relation Knowledge Distillation for Novel Class Discovery
 - Paper: https://arxiv.org/abs/2307.09158
 - Code: https://github.com/kleinzcy/Cr-KD-NCD
 
-
+EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization
+- Code: https://github.com/lilujunai/EMQ-series
 ## Diffusion
 MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
 - Paper: https://arxiv.org/abs/2304.08465
