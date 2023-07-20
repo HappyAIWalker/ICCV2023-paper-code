@@ -190,6 +190,10 @@ Adaptive Nonlinear Latent Transformation for Conditional Face Editing
 Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond
 - Paper: https://arxiv.org/abs/2307.08996
 
+Diffir: Efficient diffusion model for image restoration
+- Paper: https://arxiv.org/abs/2303.09472
+- Code: https://github.com/Zj-BinXia/DiffIR
+
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
 - Paper: https://arxiv.org/abs/2303.09735
