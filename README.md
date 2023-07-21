@@ -93,6 +93,13 @@ Random Boxes Are Open-world Object Detectors
 - Paper: https://arxiv.org/abs/2307.08249
 - Code: https://github.com/scuwyh2000/RandBox
 
+AlignDet: Aligning Pre-training and Fine-tuning in Object Detection
+- Paper: https://arxiv.org/abs/2307.11077
+- Home: https://liming-ai.github.io/AlignDet
+
+Cascade-DETR: Delving into High-Quality Universal Object Detection
+- Paper: https://arxiv.org/abs/2307.11035
+- Code: https://github.com/SysCV/cascade-detr
 
 ## Segmentation
 Segment Anything  
@@ -144,6 +151,7 @@ Class-relation Knowledge Distillation for Novel Class Discovery
 
 EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization
 - Code: https://github.com/lilujunai/EMQ-series
+
 ## Diffusion
 MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
 - Paper: https://arxiv.org/abs/2304.08465
@@ -178,6 +186,9 @@ Masked Diffusion Transformer is a Strong Image Synthesizer
 SVDiff: Compact Parameter Space for Diffusion Fine-tuning
 - paper: https://arxiv.org/abs/2303.11305
 
+BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion
+- Paper: https://arxiv.org/abs/2307.10816
+
 ## Depth
 Neural Video Depth Stabilizer
 - Paper: https://arxiv.org/abs/2307.08695
@@ -193,6 +204,9 @@ Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond
 Diffir: Efficient diffusion model for image restoration
 - Paper: https://arxiv.org/abs/2303.09472
 - Code: https://github.com/Zj-BinXia/DiffIR
+
+Physics-Driven Turbulence Image Restoration with Stochastic Refinement
+- Paper: https://arxiv.org/pdf/2307.10603
 
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
