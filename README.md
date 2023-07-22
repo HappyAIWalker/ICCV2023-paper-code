@@ -59,6 +59,10 @@ ShiftNAS: Improving One-shot NAS via Probability Shift
 MULLER: Multilayer Laplacian Resizer for Vision
 - Paper: https://arxiv.org/pdf/2304.02859.pdf
 
+FLatten Transformer: Vision Transformer with Focused Linear Attention
+- Paper: TODO
+- Code: https://github.com/LeapLabTHU/FLatten-Transformer
+
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
@@ -193,6 +197,10 @@ BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion
 Neural Video Depth Stabilizer
 - Paper: https://arxiv.org/abs/2307.08695
 
+Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV
+- Paper: https://arxiv.org/abs/2307.10713
+- Code: https://github.com/jspenmar/slowtv_monodepth
+
 ## Restoration
 Adaptive Nonlinear Latent Transformation for Conditional Face Editing
 - Paper: https://arxiv.org/abs/2307.07790
@@ -207,6 +215,7 @@ Diffir: Efficient diffusion model for image restoration
 
 Physics-Driven Turbulence Image Restoration with Stochastic Refinement
 - Paper: https://arxiv.org/pdf/2307.10603
+- Code: https://github.com/VITA-Group/PiRN
 
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
