@@ -63,6 +63,19 @@ FLatten Transformer: Vision Transformer with Focused Linear Attention
 - Paper: TODO
 - Code: https://github.com/LeapLabTHU/FLatten-Transformer
 
+Not All Features Matter:Enhancing Few-shot CLIP with Adaptive Prior 
+- Paper: https://arxiv.org/abs/2304.01195
+- Code: https://github.com/yangyangyang127/APE
+
+Tuning Pre-trained Model via Moment Probing
+- Paper: https://arxiv.org/abs/2307.11342
+- Code: https://github.com/mingzeG/Moment-Probing
+
+Strip-MLP: Efficient Token Interaction for Vision MLP
+- Paper: https://arxiv.org/pdf/2307.11458.pdf
+- Code: https://github.com/Med-Process/Strip_MLP
+
+
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
@@ -105,11 +118,18 @@ Cascade-DETR: Delving into High-Quality Universal Object Detection
 - Paper: https://arxiv.org/abs/2307.11035
 - Code: https://github.com/SysCV/cascade-detr
 
+Deep Directly-Trained Spiking Neural Networks for Object Detection
+- Paper: https://arxiv.org/abs/2307.11411
+
 ## Segmentation
 Segment Anything  
 - Home: https://segment-anything.com/
 - Paper: https://arxiv.org/abs/2304.02643
 - Code: https://github.com/facebookresearch/segment-anything
+
+SegGPT: Segmenting Everything in Context
+- Paper: https://arxiv.org/abs/2304.03284
+- Code: https://github.com/baaivision/Painter
 
 VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - Paper: https://arxiv.org/abs/2305.11173
@@ -136,6 +156,10 @@ Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular
 OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
 - Paper: https://arxiv.org/abs/2307.09356
 - Code: https://github.com/wudongming97/OnlineRefer
+
+Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation
+- Paper: https://arxiv.org/abs/2307.11545
+- Code: https://github.com/kkakkkka/ETRIS
 
 
 ## Knowledge Distillation
