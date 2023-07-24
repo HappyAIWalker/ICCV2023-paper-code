@@ -241,6 +241,10 @@ Physics-Driven Turbulence Image Restoration with Stochastic Refinement
 - Paper: https://arxiv.org/pdf/2307.10603
 - Code: https://github.com/VITA-Group/PiRN
 
+Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration
+- Paper: https://arxiv.org/abs/2306.06513
+- Code: https://github.com/kechunl/AdaCode
+
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
 - Paper: https://arxiv.org/abs/2303.09735
