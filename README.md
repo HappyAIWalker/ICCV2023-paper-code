@@ -121,6 +121,18 @@ Cascade-DETR: Delving into High-Quality Universal Object Detection
 Deep Directly-Trained Spiking Neural Networks for Object Detection
 - Paper: https://arxiv.org/abs/2307.11411
 
+COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts
+- Paper: https://arxiv.org/abs/2307.12730
+- Code: https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o
+
+Less is More: Focus Attention for Efficient DETR
+- Ppaer: https://arxiv.org/abs/2307.12612
+- Code: https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR
+
+Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes
+- Paper: https://arxiv.org/abs/2307.12101
+- Code: https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det
+
 ## Segmentation
 Segment Anything  
 - Home: https://segment-anything.com/
@@ -180,6 +192,9 @@ Class-relation Knowledge Distillation for Novel Class Discovery
 EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization
 - Code: https://github.com/lilujunai/EMQ-series
 
+Rethinking Data Distillation: Do Not Overlook Calibration
+- Paper: https://arxiv.org/abs/2307.12463
+
 ## Diffusion
 MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
 - Paper: https://arxiv.org/abs/2304.08465
@@ -216,6 +231,13 @@ SVDiff: Compact Parameter Space for Diffusion Fine-tuning
 
 BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion
 - Paper: https://arxiv.org/abs/2307.10816
+
+TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition
+- Code: https://github.com/Shilin-LU/TF-ICON
+
+
+
+
 
 ## Depth
 Neural Video Depth Stabilizer
@@ -284,6 +306,14 @@ Delegate Transformer for Image Color Aesthetics Assessment
 Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives
 - Paper: https://arxiv.org/abs/2211.04894
 - Code: https://github.com/VQAssessment/DOVER
+
+On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement
+- Paper: https://arxiv.org/abs/2307.12027
+- Code: https://github.com/Luciennnnnnn/DualFormer
+
+## Other
+Fast Full-frame Video Stabilization with Iterative Optimization
+- Paper: https://arxiv.org/abs/2307.12774
 
 
 ## Dataset
