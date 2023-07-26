@@ -133,6 +133,10 @@ Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes
 - Paper: https://arxiv.org/abs/2307.12101
 - Code: https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det
 
+RecursiveDet: End-to-End Region-based Recursive Object Detection
+- Paper: https://arxiv.org/abs/2307.13619
+- Code: https://github.com/bravezzzzzz/RecursiveDet
+
 ## Segmentation
 Segment Anything  
 - Home: https://segment-anything.com/
