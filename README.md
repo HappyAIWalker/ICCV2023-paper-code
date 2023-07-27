@@ -75,6 +75,9 @@ Strip-MLP: Efficient Token Interaction for Vision MLP
 - Paper: https://arxiv.org/pdf/2307.11458.pdf
 - Code: https://github.com/Med-Process/Strip_MLP
 
+Adaptive Frequency Filters As Efficient Global Token Mixers
+- Paper: https://arxiv.org/abs/2307.14008
+
 
 
 ## Detection 
@@ -241,15 +244,26 @@ TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition
 
 
 
-
-
-## Depth
+## Depth 
 Neural Video Depth Stabilizer
 - Paper: https://arxiv.org/abs/2307.08695
 
 Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV
 - Paper: https://arxiv.org/abs/2307.10713
 - Code: https://github.com/jspenmar/slowtv_monodepth
+
+MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation
+- Paper: https://arxiv.org/abs/2307.14336
+
+Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching
+- Paper: https://arxiv.org/abs/2307.14071
+
+VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation
+- Paper: https://arxiv.org/abs/2303.08340
+- Code: https://github.com/XiaoyuShi97/VideoFlow
+
+
+
 
 ## Restoration
 Adaptive Nonlinear Latent Transformation for Conditional Face Editing
