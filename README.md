@@ -78,7 +78,8 @@ Strip-MLP: Efficient Token Interaction for Vision MLP
 Adaptive Frequency Filters As Efficient Global Token Mixers
 - Paper: https://arxiv.org/abs/2307.14008
 
-
+Learning Concise and Descriptive Attributes for Visual Recognition
+- Paper: https://arxiv.org/abs/2308.03685
 
 ## Detection 
 FemtoDet: an object detection baseline for energy versus performance tradeoffs
@@ -262,8 +263,8 @@ VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation
 - Paper: https://arxiv.org/abs/2303.08340
 - Code: https://github.com/XiaoyuShi97/VideoFlow
 
-
-
+Learning Depth Estimation for Transparent and Mirror Surfaces
+- Paper: https://arxiv.org/pdf/2307.15052.pdf
 
 ## Restoration
 Adaptive Nonlinear Latent Transformation for Conditional Face Editing
@@ -297,6 +298,14 @@ SAFMN: Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolutio
 DLGSANet: Lightweight Dynamic Local and Global Self-Attention Network for Image Super-Resolution
 - Paper: https://arxiv.org/pdf/2301.02031.pdf
 - Code: https://github.com/NeonLeexiang/DLGSANet
+
+Dual Aggregation Transformer for Image Super-Resolution
+- Paper: https://arxiv.org/abs/2308.03364
+- Code: https://github.com/zhengchen1999/DAT
+
+A Benchmark for Chinese-English Scene Text Image Super-resolution
+- Paper: https://arxiv.org/abs/2308.03262
+- Code:https://github.com/mjq11302010044/Real-CE
 
 ## Deblurring
 Multi-scale Residual Low-Pass Filter Network for Image Deblurring
