@@ -181,6 +181,9 @@ Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring 
 - Paper: https://arxiv.org/abs/2307.11545
 - Code: https://github.com/kkakkkka/ETRIS
 
+Exploring Transformers for Open-world Instance Segmentation
+- Code: https://arxiv.org/abs/2308.04206
+
 
 ## Knowledge Distillation
 From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels
@@ -285,6 +288,17 @@ Physics-Driven Turbulence Image Restoration with Stochastic Refinement
 Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration
 - Paper: https://arxiv.org/abs/2306.06513
 - Code: https://github.com/kechunl/AdaCode
+
+Under-Display Camera Image Restoration with Scattering Effect
+- Paper: https://arxiv.org/abs/2308.04163
+- Code: https://github.com/NamecantbeNULL/SRUDC
+
+From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal
+- Paper: https://arxiv.org/abs/2308.03867
+
+GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild
+-Paper: https://arxiv.org/pdf/2211.12352.pdf
+
 
 ## Super-Resolution
 SRFormer: Permuted Self-Attention for Single Image Super-Resolution
